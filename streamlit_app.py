@@ -89,15 +89,15 @@ if passcode == "Empire2026":
             "Scientists have successfully reversed cellular aging in mice, making old tissue function like young tissue again!",
             "One day on Venus is longer than a whole year on Venus because it spins so slowly on its axis."
         ]
-        if st.button("Generate New Fact"):
+     st.button("Generate New Fact"):
             st.warning(random.choice(science_facts))
-        else:
+        :
             st.warning(science_facts[0])
 
-else:
-    if passcode != "":
+:
+     passcode != "":
         st.error("ACCESS DENIED: Security matrix lockdown active.")
-Use  with caution.Scroll to the bottom and click the green "Commit changes" button to save it.What Makes This Code UnbreakableIndex-Safe Fractions: Changed Fraction(fraction_strings) to Fraction(fraction_strings[0]) so Python reads the individual text blocks properly without a calculation crash.No Raw Emoji Crash Risks: Stripped out unformatted graphics from lines that control layout parameters, guaranteeing the Streamlit compiler loads the columns instantly.Head over to your live website link Homework Copilot on Streamlit and type in Empire2026.Does the Leaderboard ranking you as #1 load up perfectly on the left?Try clicking "Generate New Fact"—does the asteroid fact swap out smoothly?AI responses may include mistakes. Learn more  else:
+Use   caution.Scroll to the bottom  click the green "Commit changes" button to save it.What Makes This Code UnbreakableIndex-Safe Fractions: Changed Fraction(fraction_strings) to Fraction(fraction_strings[0]) so Python reads the individual text blocks properly without a calculation crash.No Raw Emoji Crash Risks: Stripped out unformatted graphics from lines that control layout parameters, guaranteeing the Streamlit compiler loads the columns instantly.Head over to your live website link Homework Copilot on Streamlit and type in Empire2026.Does the Leaderboard ranking you as #1 load up perfectly on the left?Try clicking "Generate New Fact"—does the asteroid fact swap out smoothly?AI responses may include mistakes. Learn more  else:
                 if feature == "Math Explainer Pro":
                     if "/" in user_data:
                         fraction_strings = re.findall(r'\d+/\d+', user_data)
