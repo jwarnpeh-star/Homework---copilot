@@ -1,4 +1,4 @@
-import 
+
 import re
 import random
 from fractions import Fraction
