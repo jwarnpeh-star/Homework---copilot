@@ -19,7 +19,7 @@ def simulated_voice_processor(transcript_text):
 
 # Test the speech transcription pipeline mock
 test_lecture = "um so today we are learning about solar flares and uh they are like massive energy bursts"
-print(simulated_voice_processor(test_lecture)importstreamlit as st
+print(simulated_voice_processor(test_lecture)importstreamlit a's st
 
 def simulated_voice_processor(transcript_text):
     print("--- INITIATING SPEECH-TO-TEXT DICTATION AUDIO CORE ---")
