@@ -15,7 +15,7 @@ science_facts = [
 ]
 
 # 3. Main Interface Header
-st.title("⚡ Homework Copilot AI st.title("⚡ Homework Copilot AI Ultra")
+st.title("⚡ Homework Copilot AI st.title("  Homework Copilot AI Ultra")
 st.markdown("### *The Ultimate Autonomous Multi-Tool for 5th Grade Leaders & Future Tech Titans*")
 st.markdown("---")
 
