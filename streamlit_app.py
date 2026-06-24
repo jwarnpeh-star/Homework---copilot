@@ -4,7 +4,8 @@ import random
 from fractions import Fraction
 
 # 1. App Styling & Layout Configuration
-st.set_page_config(page_title=⚡ Homework Copilot AI Ultra, page_icon="⚡", layout="wide")
+st.set_page_config(page_title=⚡ , "Homework Copilot AI Ultra", page_icon="rocket", layout="wide")
+
 
 # 2. Daily Science Fact Database
 science_facts = [
