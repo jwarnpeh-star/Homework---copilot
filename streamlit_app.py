@@ -4,7 +4,7 @@ import random
 from fractions import Fraction
 
 # 1. App Styling & Layout Configuration
-st.set_page_config(page_title="Homework Copilot AI Ultra", page_icon="⚡", layout="wide")
+st.set_page_config(page_title=⚡ Homework Copilot AI Ultra, page_icon="⚡", layout="wide")
 
 # 2. Daily Science Fact Database
 science_facts = [
@@ -15,7 +15,7 @@ science_facts = [
 ]
 
 # 3. Main Interface Header
-st.title("⚡ Homework Copilot AI st.title("  Homework Copilot AI Ultra")
+st.title("⚡ Homework Copilot AI st.title("  Homework Copilot AI Utlra")
 st.markdown("### *The Ultimate Autonomous Multi-Tool for 5th Grade Leaders & Future Tech Titans*")
 st.markdown("---")
 
