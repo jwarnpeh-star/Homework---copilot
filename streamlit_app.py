@@ -42,7 +42,7 @@ if passcode == "Empire2026":
         user_data = st.text_area("Input your text data here:", height=150)
         
         if st.button("Execute System Pipeline"):
-            if not user_data.strip():  else:
+            if not user_data.strip():  
                 if feature == "Math Explainer Pro":
                     if "/" in user_data:
                         fraction_strings = re.findall(r'\d+/\d+', user_data)
